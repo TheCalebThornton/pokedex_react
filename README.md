@@ -7,7 +7,7 @@ Single Page Application containing information about a single pokemon at a time.
 Provide a method for selection of each Pokemon in the 1st generation. 
  
 # TODO Task list: 
-- [ ] Build base React App  
+- [x] Build base React App  
 - [ ] Create a Select element for each pokemon  
 - [ ] Create a basic Pokemon img display  
 - [ ] Create a basic Pokemon description display (height, weight, abilities, flavor text)  
