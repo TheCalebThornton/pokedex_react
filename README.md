@@ -1,16 +1,16 @@
 # pokedex_react
-Simple React application of the well known 'Pokedex' from the Pokemon franchise. 
+Simple React application of the well known 'Pokedex' from the Pokemon franchise.
 
 
-# Pokedex Described: 
+# Pokedex Described:
 Single Page Application containing information about a single pokemon at a time.  
-Provide a method for selection of each Pokemon in the 1st generation. 
- 
-# TODO Task list: 
+Provide a method for selection of each Pokemon in the 1st generation.
+
+# TODO Task list:
 - [x] Build base React App  
 - [ ] Create a Select element for each pokemon  
   - [x] Create basic component
-  - [ ] Style the dropdown
+  - [x] Style the dropdown
   - [ ] Integrate API data
 - [ ] Create a basic Pokemon img display  
   - [ ] Create basic component
@@ -25,6 +25,10 @@ Provide a method for selection of each Pokemon in the 1st generation.
   - [ ] Style the stats
   - [ ] Integrate API data
 - [ ] Integrate an API utility for getting Pokemon data  
+- [ ] Add free text filter input for Pokemon Names that replaces PokeSelector
+  - [ ] Create basic component  
+  - [ ] Style the input  
+  - [ ] Implement filter function based on API list of pokemon  
 
 
 # Figma UI:
