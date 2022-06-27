@@ -17,13 +17,13 @@ Provide a method for selection of each Pokemon in the 1st generation.
   - [ ] Style the iamge display
   - [ ] Integrate API data
 - [ ] Create a basic Pokemon description display (height, weight, abilities, flavor text)  
-  - [ ] Create basic component
+  - [x] Create basic component
   - [ ] Style the descriptive text
   - [ ] Integrate API data
 - [ ] Create a base stat Pokemon display
-  - [ ] Create basic component
+  - [x] Create basic component
   - [ ] Style the stats
-  - [ ] Integrate API data
+  - [ ] Integrate API data  
 - [ ] Integrate an API utility for getting Pokemon data  
 - [ ] Add free text filter input for Pokemon Names that replaces PokeSelector
   - [ ] Create basic component  
