@@ -8,10 +8,10 @@ Provide a method for selection of each Pokemon in the 1st generation.
 
 # TODO Task list:
 - [x] Build base React App  
-- [ ] Create a Select element for each pokemon  
+- [x] Create a Select element for each pokemon  
   - [x] Create basic component
   - [x] Style the dropdown
-  - [ ] Integrate API data
+  - [x] Integrate API data
 - [ ] Create a basic Pokemon img display  
   - [ ] Create basic component
   - [ ] Style the iamge display
